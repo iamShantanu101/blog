@@ -1,13 +1,11 @@
-# AIR theme for hugo
+# A blog built with Hugo ( theme - AIR)
 
 Air is a single-column theme for [Hugo](http://gohugo.io/).
 Ported from [Casper theme for Ghost ](https://github.com/TryGhost/Casper), [vjeantet/hugo-theme-casper](https://github.com/vjeantet/hugo-theme-casper)
 
-- blog demo : http://syui.github.io/hugo-theme-air
+- blog demo : https://iamshantanu101.github.io/
 
-- blog source : https://github.com/syui/hugo-theme-air
-
-![Hugo Air Theme screenshot](https://raw.githubusercontent.com/syui/hugo-theme-air/master/images/screen.gif)
+- blog source : https://github.com/iamShantanu101/hugoblog/
 
 ```bash
 $ git clone https://github.com/syui/hugo-theme-air
@@ -22,12 +20,8 @@ $ hugo server
 ---------------------------------
 $ curl 127.0.0.1:1313/hugo-theme-air 
 ```
-## Background Image
-
-[https://github.com/syui/hugo-theme-air/blob/master/static/css/screen.css#L1995](https://github.com/syui/hugo-theme-air/blob/master/static/css/screen.css#L1995)
-
-...`slow`
-
+## Screenshot
+![screenshot](https://github.com/iamShantanu101/hugoblog/blob/master/images/screenshot.png)
 ## Features
 
 * [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js/)
@@ -50,7 +44,7 @@ $ curl 127.0.0.1:1313/hugo-theme-air
 
     mkdir themes
     cd themes
-    git clone https://github.com/syui/hugo-theme-air
+    git clone https://github.com/iamShantanu101/hugoblog
 
 ## Build your website with this theme
 
@@ -127,7 +121,7 @@ Contents here
 ```
 
 ## Create new content based with default metadata from this theme
-You can easyly create a new content with all metadatas used by this theme, using this command 
+You can easily create a new content with all metadatas used by this theme, using this command 
 ```
 hugo new -t hugo-theme-air post/my-post.md
 ```
@@ -158,10 +152,3 @@ $ git push -u origin gh-pages
 # open
 $ curl user.github.io/repository
 ```
-
-# Contact me
-
-:beetle: open an issue in github
-
-:bird: [https://twitter.com/syui__](https://twitter.com/syui__)
-
