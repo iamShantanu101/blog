@@ -15,7 +15,7 @@ author = "Shantanu"
 
 +++
 
-The basic tenant of the Type 1a supernova paradigm is that these explosions happen when a group of exihiliratingly passionate guys gets close to a tipping point - A stable version (or even alpha/beta). It then open sources its store of great stuffs to a large open source community. The resulting explosion spreads like a fire, leaving an ever exapnding cloud of features dominated by the creators and open source community. So far, so good.
+The basic tenant of the Type 1a supernova paradigm is that these explosions happen when a group of exhilaratingly passionate guys gets close to a tipping point - A stable version (or even alpha/beta). They then open source the store of potentially great stuffs to a large open source community. The resulting explosion spreads like a fire, leaving an ever exapnding cloud of features dominated by the creators and open source community. So far, so good.
 
 Ah, without much ado, lets break the surprise! This was none other than; Docker - The Supernovae in the Tech Galaxy.
 
@@ -24,6 +24,8 @@ Ah, without much ado, lets break the surprise! This was none other than; Docker 
 Confused? Since when did a giant Blue Whale carrying some blocks is a Supernovae? Lets see how this goes.
 
 **What is Docker?**
+
+As the official overview says :
 
 PACKAGE YOUR APPLICATION INTO A STANDARDIZED UNIT FOR SOFTWARE DEVELOPMENT
 
