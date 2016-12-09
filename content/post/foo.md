@@ -13,6 +13,10 @@ date = "2016-12-08T22:02:29+05:30"
 draft = false
 author = "Shantanu"
 
+```bash
+echo "hello world !!"
+```
+
 +++
 
 The basic tenant of the Type 1a supernova paradigm is that these explosions happen when a group of exhilaratingly passionate guys gets close to a tipping point - A stable version (or even alpha/beta). They then open source the store of potentially great stuffs to a large open source community. The resulting explosion spreads like a fire, leaving an ever exapnding cloud of features dominated by the creators and open source community. So far, so good.
