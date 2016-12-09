@@ -8,9 +8,9 @@ Ported from [Casper theme for Ghost ](https://github.com/TryGhost/Casper), [vjea
 - blog source : https://github.com/iamShantanu101/hugoblog/
 
 ```bash
-$ git clone https://github.com/syui/hugo-theme-air
+$ git clone https://github.com/iamShantanu101/blog
 
-$ cd hugo-theme-air
+$ cd blog
 
 $ cp config.toml.backup config.toml
 
