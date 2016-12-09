@@ -44,11 +44,11 @@ $ curl 127.0.0.1:1313/hugo-theme-air
 
     mkdir themes
     cd themes
-    git clone https://github.com/iamShantanu101/hugoblog
+    git clone https://github.com/iamShantanu101/blog
 
 ## Build your website with this theme
 
-    hugo server -t hugo-theme-air
+    hugo server -t blog
 
 # Configuration
 
