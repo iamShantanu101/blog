@@ -3,9 +3,9 @@
 Air is a single-column theme for [Hugo](http://gohugo.io/).
 Ported from [Casper theme for Ghost ](https://github.com/TryGhost/Casper), [vjeantet/hugo-theme-casper](https://github.com/vjeantet/hugo-theme-casper)
 
-- blog demo : https://iamshantanu101.github.io/
+- blog demo : https://iamshantanu101.github.io/blog
 
-- blog source : https://github.com/iamShantanu101/hugoblog/
+- blog source : https://github.com/iamShantanu101/blog/
 
 ```bash
 $ git clone https://github.com/iamShantanu101/blog
