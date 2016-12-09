@@ -1,15 +1,15 @@
 name = "Air"
 license = "MIT"
-licenselink = "https://github.com/syui/hugo-theme-air/blob/master/LICENSE.md"
+licenselink = "https://github.com/iamShantanu101/blog/blob/master/LICENSE.md"
 description = "Casper theme from Ghost Foundation, Plus particles.js"
-homepage = "https://syui.github.io/hugo-theme-air"
+homepage = "https://syui.github.io/blog"
 tags = ["blog"]
 features = ["disqus", "google analytics","share"]
 min_version=0.14
 
 [author]
-  name = "syui"
-  homepage = "https://syui.github.io"
+  name = "Shantanu"
+  homepage = "https://iamShantanu101.github.io/blog"
 
 [original]
   name = "hugo-theme-casper"
