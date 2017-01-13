@@ -1,4 +1,5 @@
-BaseUrl= "http://iamShantanu101.github.io/blog"
+#BaseUrl= "http://iamShantanu101.github.io/blog"
+BaseUrl= "https://www.zigmoi.org"
 LanguageCode= "en-US"
 Title= "The Geek Space"
 paginate = 5
